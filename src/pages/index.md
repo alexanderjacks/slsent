@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Fight The Ban
+title: SLSENT
 heading: rise up and resist...
 description: >-
   Join Minority Veterans of America, OutServe-SLDN, and partners across the
@@ -67,7 +67,7 @@ testimonials:
     quote: >-
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-meta_title: Home | Fight The Ban
+meta_title: Home | SLSENT
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

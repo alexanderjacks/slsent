@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About Us
-meta_title: About Us | Fight The Ban
+meta_title: About Us | SLSENT
 meta_description: >-
   On April 12th, 2019, the Department of Defense will begin to implement
   Directive-Type Memorandum 19-004, **a ban on transgender individuals serving
