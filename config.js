@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'slsent', // Site title.
+  siteTitle: 'Serverless Entrepreneur', // Site title.
   siteTitleAlt: 'slsent', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://slsent.netlify.com', // Domain of your website without pathPrefix.

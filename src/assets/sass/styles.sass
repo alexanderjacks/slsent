@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap');
-$primary: #ff1133
-$primary-invert: #00ffff
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|Raleway&display=swap');
+$primary: firebrick
+$primary-invert: deepskyblue
 
 html,
 body,
@@ -8,7 +8,7 @@ body,
 #gatsby-focus-wrapper,
 #layout-wrapper
   height: 100%
-  font-family: 'Nunito Sans'
+  font-family: 'Raleway', sans-serif;
 
 #layout-wrapper
   width: 100%
@@ -17,6 +17,9 @@ body,
 
 #content-wrapper
   flex: 1
+
+h1, h2, h3, h4, h5, h6, strong, Link
+  font-family: 'Cinzel Decorative', cursive;
 
 nav
   border-bottom: lightgray solid 0.1vmin
@@ -40,3 +43,7 @@ nav
   margin-top: 0 !important
 
 @import "~bulma"
+
+// final over-write to set links' blue
+a
+  color: deepskyblue

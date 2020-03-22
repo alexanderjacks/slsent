@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
-title: SLSENT
-heading: rise up and resist...
+title: The Serverless Entrepreneur
+heading: do more w less... much less...
 description: >-
   Join Minority Veterans of America, OutServe-SLDN, and partners across the
   country as we rally for the rights of transgender individuals. Stand with us
